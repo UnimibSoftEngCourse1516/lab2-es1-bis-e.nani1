@@ -3,6 +3,12 @@
 Initial content of the first document.
 additional content of the first document.
 
+<<<<<<< HEAD
 ## Secon document
 
 Please see file2.txt for the second document.
+=======
+## Third document
+
+file3
+>>>>>>> 235057926530655519a71b16e0fd6d208a00560f
